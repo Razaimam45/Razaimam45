@@ -5,8 +5,7 @@
 </p>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=30&duration=6000&pause=1000&color=F7B522&multiline=true&random=false&width=440&lines=Hey+There%F0%9F%91%8B%2C+I'm+Raza...+Raza+Imam+!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%F0%9F%91%8B%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%B0%E0%A4%9C%E0%A4%BC%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81...+%E0%A4%B0%E0%A4%9C%E0%A4%BC%E0%A4%BE+%E0%A4%87%E0%A4%AE%E0%A4%BE%E0%A4%AE!;%DB%81%DB%8C%D9%84%D9%88+%F0%9F%91%8B%D8%8C+%D9%85%DB%8C%DA%BA+%D8%B1%D8%B6%D8%A7+%DB%81%D9%88%DA%BA...+%D8%B1%D8%B6%D8%A7+%D8%A7%D9%85%D8%A7%D9%85!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=30&duration=6000&pause=1000&color=F7B522&multiline=true&random=false&width=440&lines=Hey+There%F0%9F%91%8B%2C+I'm+Raza...+Raza+Imam+!)](https://git.io/typing-svg)
 
 # 😄 About Me
 
