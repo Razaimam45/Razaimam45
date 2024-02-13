@@ -8,7 +8,7 @@ I completed my bachelor's degree in [Computer Science at Aligarh Muslim Universi
 ### 🤔 Research Interests
 I am mainly interested in model-centric AI and data-centric machine learning, including data privacy, model robustness, domain generalization, and healthcare related applications.
 
-### 💬 Ask me about ...
+### 💬 Ask me about
 - Data Efficiency: Knowledge Distillation, Distribution Alignment
 - Data Security: Adversarial Training, Model Extraction Attack
 - Model Robustness: Ensembling, Zero-shot Generalization
