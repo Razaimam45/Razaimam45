@@ -49,5 +49,3 @@ Here are some ideas to get you started:
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Razaimam45.Razaimam45)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Razaimam45.Razaimam45)
