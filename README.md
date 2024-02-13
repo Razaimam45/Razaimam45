@@ -2,7 +2,8 @@
 <hr>
 <p align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&pause=1000&random=false&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Raza...+Raza+Imam+!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=5b5b5b&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aman+Jamshed;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&pause=1000&random=false&size=30&center=true&Center=true&width=550&height=70&lines=Hey+There%F0%9F%91%8B%2C+I'm+Raza...+Raza+Imam+!)](https://git.io/typing-svg)
 
 </p>
 <hr>
