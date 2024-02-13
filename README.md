@@ -6,7 +6,7 @@
 
 <!--</p>-->
 <hr>
-<hr style="border: 0; height: 0.1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));">
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 
 # 😄 About Me
