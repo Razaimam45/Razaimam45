@@ -5,8 +5,10 @@
 Hi there! I am a final-year MS student in [Machine Learning at the Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/research/department/machine-learning-department/), under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
 I completed my bachelor's degree in [Computer Science at Aligarh Muslim University](https://www.amu.ac.in/department/computer-science) in July 2022, advised by Dr. [Faisal Anwer](https://scholar.google.com/citations?user=S-VW0mAAAAAJ&hl=en) and Dr. [Mohammad Nadeem](https://scholar.google.com/citations?user=yaEgXYMAAAAJ&hl=en).
 
+<!--
 ### 🤔 Research Interests
 I am mainly interested in model-centric AI and data-centric machine learning, including data privacy, model robustness, domain generalization, and healthcare related applications.
+-->
 
 ### 💬 Ask me about
 - Data Efficiency: Knowledge Distillation, Distribution Alignment
