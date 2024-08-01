@@ -7,8 +7,7 @@
 
 # 😄 About Me
 
-I am a final-year MS student in [Machine Learning at the Mohamed Bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/research/department/machine-learning-department/), under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
-I completed my bachelor's degree in [Computer Science at Aligarh Muslim University](https://www.amu.ac.in/department/computer-science) in July 2022, advised by Dr. [Faisal Anwer](https://scholar.google.com/citations?user=S-VW0mAAAAAJ&hl=en) and Dr. [Mohammad Nadeem](https://scholar.google.com/citations?user=yaEgXYMAAAAJ&hl=en).
+Hi there! I am a first year PhD. candidate in [Computer Vision at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/research/department/computer-vision-department/). I completed my MS in [Machine Learning at MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
 
 <!--
 ### 🤔 Research Interests
