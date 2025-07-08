@@ -7,18 +7,19 @@
 
 # 😄 About Me
 
-Hi there! I am a first year PhD. candidate in [Computer Vision at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/research/department/computer-vision-department/). I completed my MS in [Machine Learning at MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
+Hi there! I am a second year PhD. candidate in [Computer Vision at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/research/department/computer-vision-department/) under the supervision of Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ) at [BioMedia Lab](https://mbzuai-biomedia.com/biomedia/). I completed my MS in [Machine Learning at MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) under the supervision of Dr. [Karthik Nandakumar](https://www.sprintai.org/nkarthik) and Dr. [Mohammad Yaqub](https://scholar.google.co.uk/citations?user=9dfn5GkAAAAJ).
+
 
 <!--
 ### 🤔 Research Interests
-I am mainly interested in model-centric AI and data-centric machine learning, including data privacy, model robustness, domain generalization, and healthcare related applications.
+I am interested in AI-for-Healthcare and aim to build AI applications that are safe, robust, and deployable for downstream medical tasks.
 -->
 
 ### 💬 Ask me about
-- Data Efficiency: Knowledge Distillation, Distribution Alignment
-- Data Security: Adversarial Training, Model Extraction Attack
-- Model Robustness: Ensembling, Zero-shot Generalization
-- Healthcare-related Applications: Federated Learning, Imbalanced Learning
+- Efficiency: Unsupervised Adaptation, Distillation
+- Trustworthiness: Adversarial Training, Test-Time Adaptation
+- Domain Generalization: Model Merging, Zero-shot Generalization
+- Current Focus: Robust Dermatology VLMs, LLM Merging
 
 ### 📎 Homepages
 
